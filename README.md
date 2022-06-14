@@ -5,11 +5,6 @@
 - 📫 you can msg me on FB https://www.facebook.com/honeyleeuwenhoek.28/
 - you can check my NFT collection @ https://opensea.io/lysergicdreamer
 
-<div id="badges">
-  <a href="https://www.facebook.com/honeyleeuwenhoek.28/">
-    <img src="https://img.shields.io/badge/-facebook-blue> </img>
-                          </a>
-              </div>
 
 <!---
 honeyleeuwenhoek/honeyleeuwenhoek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
