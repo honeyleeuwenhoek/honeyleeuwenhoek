@@ -5,8 +5,10 @@
 - 📫 you can msg me on FB https://www.facebook.com/honeyleeuwenhoek.28/
 - you can check my NFT collection @ https://opensea.io/lysergicdreamer
 
-![Alt Text](https://wifflegif.com/gifs/478906-yamato-nadeshiko-shichi-henge-gif)
-
+<div id="badges">
+  <a href="https://www.facebook.com/honeyleeuwenhoek.28/">
+                <img src="https://img.shields.io/badge/-facebook-blue>
+                          </a>
 
 
 <!---
