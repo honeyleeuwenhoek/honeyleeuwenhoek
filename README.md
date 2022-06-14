@@ -7,7 +7,7 @@
 
 <div id="badges">
   <a href="https://www.facebook.com/honeyleeuwenhoek.28/">
-                <img src="https://img.shields.io/badge/-facebook-blue>
+    <img src="https://img.shields.io/badge/-facebook-blue> </img>
                           </a>
 
 
