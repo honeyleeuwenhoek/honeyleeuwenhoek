@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on people who can teach me how to code
 - 📫 you can msg me on FB https://www.facebook.com/honeyleeuwenhoek.28/
 - you can check my NFT collection @ https://opensea.io/lysergicdreamer
-- Add this ![ Alt text]https://wifflegif.com/gifs/478906-yamato-nadeshiko-shichi-henge-gif 
+- Add this ! [ Alt text]https://wifflegif.com/gifs/478906-yamato-nadeshiko-shichi-henge-gif ![](https://wifflegif.com/gifs/478906-yamato-nadeshiko-shichi-henge-gif)
 
 
 
